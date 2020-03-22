@@ -4,7 +4,7 @@ Script JS que gera automaticamente os pontos e o traço do CPF.
 
 COMO USAR
 
-Declarar no código HTML antes do Body
+Declarar no código HTML antes de terminar a etiqueta Body
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.11/jquery.mask.min.js"></script>
