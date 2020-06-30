@@ -26,6 +26,10 @@ h2{
 	text-align: center;
 }
 
+.envio{
+	padding: 0px;
+}
+
 input{
 	width: 100%;
   	padding: 12px 20px;
@@ -43,47 +47,4 @@ p{
 	margin: 0px;
 }
 
-.envio{
-	padding: 0px;
-}
 
-button{
-	background-color: #03CDE9;
-  	border: none;
-  	color: white;
-  	padding: 15px 32px;
-	text-align: center;
-	text-decoration: none;
-	display: block;
-	font-size: 16px;
-	margin-top: 10px;
-	margin-left: auto;
-	margin-right: auto;
-	transition: all 0.5s;
-	cursor: pointer;
-}
-
-button:hover{
-	background-color: #018B9E;
-  	border: none;
-  	color: white;
-  	padding: 15px 32px;
-	text-align: center;
-	text-decoration: none;
-	display: block;
-	font-size: 16px;
-	margin-top: 10px;
-	margin-left: auto;
-	cursor: pointer;
-}
-
-a:link{
-	text-decoration:none;
-} 
-
-.table{
-	font-family: 'Raleway', sans-serif;
-	color: #BBBBBB;
-	font-size: medium;
-	font-weight: 300;
-}
